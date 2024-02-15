@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3172],{712:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/wiki-education/blog/tags/hello","allTagsPath":"/wiki-education/blog/tags","count":2,"unlisted":false}')}}]);
